@@ -27,4 +27,3 @@ with open('enjoysport.csv') as csv_file:
                 hypo[j] = '?'
     print("find S hypo is :")
     print(hypo)
-           
